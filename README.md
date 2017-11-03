@@ -16,7 +16,12 @@ scan.py --->
 
 
 need to newfile:
+
         tmp.txt(Ex:Hosts)
+        
         host.txt(hosts_to_scan_domain.py --->domain)
+        
         host_not_out.txt(scan.py --->Not Ping or Not Ipv6)
+        
         host_out.txt(scan.py --->final txt)
+        
