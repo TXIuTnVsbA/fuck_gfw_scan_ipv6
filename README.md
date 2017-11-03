@@ -25,3 +25,9 @@ need to newfile:
         
         host_out.txt(scan.py --->final txt)
         
+        
+hosts:
+        
+        有重复
+        ipv6
+        
