@@ -2,13 +2,13 @@
 
 python2(win_64)
 
-hosts_to_scan_domain.py --->
+hosts_to_scan_domain.py:
 
         2404:6800:4008:801::2013 www.blog.google #ghs-svc-https-sni.ghs-ssl.googlehosted.com 
         --->
         www.blog.google
 
-scan.py --->
+scan.py:
         
         www.blog.google
         --->
